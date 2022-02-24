@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RigersShemuni
-- 👀 I’m interested in learnig how to code
+- 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning html , css , javascript
 - 📫 How to reach me ... rigersshemuni1996@gmail.com
 
